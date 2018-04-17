@@ -13,7 +13,7 @@
 	height: 100%;
 	background-color: #6e6568;
 	color: #fff;
-	font-size: 14px;  /* 不是给字的，给 /  */
+	font-size: 14px;  
 	position: relative;
 }
 .ad {
@@ -41,7 +41,7 @@
 }
 .grid-col1 a {
 	color: #fff;
-	font-size: 14px;  /* 是给链接文字  */
+	font-size: 14px;  /* 链接文字  */
 	margin: 0 3px;
 }
 .grid-col1 a:hover {
@@ -54,7 +54,7 @@
 	padding-left: 12px;
 	height: 29px;
 	line-height: 26px;
-	/* margin-left: 12px; 同学们体会下 这里为什么不用 margin  就是因为下面有鼠标经过的效果*/
+	
 }
 .grid-col1 ul li:hover {
 	background-color: #9c9698;
